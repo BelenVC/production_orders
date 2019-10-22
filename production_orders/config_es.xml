@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>production_orders</name>
+	<displayName><![CDATA[PRODUCCI&Oacute;N DE PEDIDOS]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Este m&oacute;dulo controla la producci&oacute;n de los pedidos de nuestra empresa.]]></description>
+	<author><![CDATA[Belen]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Si desinstala, se perderá la configuración. ¿Estás seguro?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
